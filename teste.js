@@ -1,2 +1,2 @@
 var nome = "Maria"
-console.log(nome)
+console.log("O nome dele é", (nome));
